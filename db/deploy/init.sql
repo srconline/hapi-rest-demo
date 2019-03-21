@@ -1,3 +1,3 @@
 --
--- PostgreSQL database dump
+-- PostgreSQL database dump test
 --
